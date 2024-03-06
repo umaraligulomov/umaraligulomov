@@ -1,4 +1,4 @@
-### Hi, I'm Umarali G'ulomov👋
+### Hi, I'm Umarali G'ulomov web developer👋
 
 <!--
 **umaraligulomov/umaraligulomov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
